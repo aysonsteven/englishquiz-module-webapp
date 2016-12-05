@@ -1,0 +1,3 @@
+[submodule "src/app/quizmodule"]
+	path = src/app/quizmodule
+	url = https://github.com/aysonsteven/englishquiz-module.git
